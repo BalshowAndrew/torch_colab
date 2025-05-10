@@ -10,6 +10,4 @@ wheels/
 .venv
 
 # Cloned repositories
-pytorch_studying
-
 datas
